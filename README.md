@@ -1,0 +1,1 @@
+# word-randomizer-for-handwritten-Cyrillic
